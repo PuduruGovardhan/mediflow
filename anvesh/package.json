@@ -1,0 +1,21 @@
+{
+  "name": "mediflow",
+  "version": "1.0.0",
+  "private": true,
+  "description": "MediFlow – Smart Patient Queue & Emergency Triage. A dependency-free browser application (HTML, CSS and vanilla JavaScript with localStorage persistence) for the hackathon problem statement.",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node tests/run-tests.js"
+  },
+  "keywords": [
+    "hackathon",
+    "triage",
+    "patient-queue",
+    "healthcare",
+    "vanilla-javascript"
+  ],
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  }
+}
